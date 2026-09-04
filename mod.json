@@ -1,0 +1,11 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "win": "2.2081"
+    },
+    "id": "lauty.physics-indicator",
+    "name": "Physics Indicator",
+    "version": "v1.0.0",
+    "developer": "Lauty",
+    "description": "Shows whether a level uses new or old ship physics."
+}
